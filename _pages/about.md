@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a master student in control science and engineering from the School of Automation, [Central South University](https://www.csu.edu.cn/), China. I received my B.E. degree from the School of Automation, Central South University, China, in 2023. 
   
-His current research interests include deep learning, reinforcement learning, multi-agent systems, and representation learning.
+My current research interests include deep learning, reinforcement learning, multi-agent systems, and representation learning.
 
 A data-driven personal website
 ======
